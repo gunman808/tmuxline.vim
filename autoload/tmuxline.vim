@@ -6,10 +6,10 @@ let s:default_theme = 'powerline'
 let s:default_preset = 'powerline'
 
 let s:powerline_separators = {
-    \ 'left' : '',
-    \ 'left_alt': '',
-    \ 'right' : '',
-    \ 'right_alt' : '',
+    \ 'left' : '⮀',
+    \ 'left_alt': '⮁',
+    \ 'right' : '⮂',
+    \ 'right_alt' : '⮃',
     \ 'space' : ' '}
 
 let s:simple_separators = {
